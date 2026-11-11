@@ -1,0 +1,6 @@
+{
+  "name": "MANIT Bhopal – Hostel 10 C/D Mess Card Management System",
+  "description": "Official daily mess card attendance, meal schedule, and student feedback portal for Hostel 10 C & 10 D at Maulana Azad National Institute of Technology (MANIT Bhopal).",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
